@@ -1,1 +1,1 @@
-# friendly-train
+# Friendly Train
